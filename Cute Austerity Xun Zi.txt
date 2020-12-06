@@ -1,0 +1,73 @@
+<p style="text-align:right;">
+</p>
+
+{{(Test)
+|image1 = Cute Austerity Xun Zi.png
+|id = 8306
+|HP = ???
+|ATK = ???
+|REC = ???
+|icon = [[File:8306.png|65px]]
+|tribe = Fantasy . Animal
+|type = Balanced
+|obtain = Hatcher
+|color = Green
+|rarity = 6★
+|cost = 65
+|maxlevel = 99
+|max.HP = 7640
+|max.ATK = 5063
+|max.REC = 4200
+}}
+<tabber>6★=
+{| class="article-table" | border="1"
+! colspan="4" |Active Skill
+|-
+!Skill Name:
+|What's Yours is Mine
+!Turns:
+|11
+(MAX: 6)
+|-
+| colspan="4" |Blue Panels to Green Bombs (L) + Destroy Yellow, Hearts + Chance Red drop as Green Bombs (L), Blue Panels drop as own CP (L), Party Green to Red, Blue Accel-Chain 2 turns.
+|-
+! colspan="4" |Crash Panel Skill
+|-
+!Skill Name:
+|colspan="3" |Cute Austerity Wedding Dress
+|-
+| colspan="4" |Immense damage to 1 enemy + Boost Fever Gauge.
+|-
+! colspan="4" |Ability 1/2
+|-
+!Ability 1:
+|colspan="3" |Junk & Damage Panel Break
+|-
+| colspan="4" |When in front, can break Junk, can break Damage Panels without taking damage.
+|-
+!Ability 2:
+|colspan="3" |Blast Radius Enhance
+|-
+| colspan="4" |When in front, Bomb blast boost.
+|-
+! colspan="4" |Ability 3/4
+|-
+!Ability 3:
+|Fever 2 Tribe Tap Boost
+!REQ
+|BUG 10
+|-
+| colspan="4" |When Fever Gauge is at 100%, Fantasy, Animal tribe add 2 taps.
+|-
+!Ability 4:
+|Green Skill Turn Reduction
+!REQ
+|BUG 20
+|-
+| colspan="4" |When each floor begins, Green unit Skill Turns reduced by 1.
+|-
+! colspan="4" |Related Units
+|-
+| colspan="4"|[[File:8158.png|link=Xun Zi|65px]] >> [[File:8159.png|link=Etiquette Heretic Xun Zi|65px]]
+|}
+</tabber>

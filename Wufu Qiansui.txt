@@ -1,0 +1,62 @@
+<p style="text-align:right;">
+</p>
+
+{{(Test)
+|image1 = Wufu Qiansui.PNG
+|id = 8209
+|HP = 2880
+|ATK = 1111
+|REC = 1939
+|tribe = Deity
+|type = Recovery
+|obtain = Hatcher
+|color = Blue
+|rarity = 6★
+|cost = 60
+|maxlevel = 99
+|max.HP = 5760
+|max.ATK = 2222
+|max.REC = 3878
+}}
+<tabber>6★=
+{| class="article-table" | border="1"
+! colspan="4" |Active Skill
+|-
+!Skill Name:
+|In Poetic Justice
+!Turns:
+|13
+(MAX: 7)
+|-
+| colspan="4" |Junk to SCP + Absorb panels for HP ultra recover + Cure Virus, Darkness + Chance Yel drop as own CP, Grn as Blue Bombs 2 trn.
+|-
+! colspan="4" |Crash Panel Skill
+|-
+!Skill Name:
+|colspan="3" |Malice Crackdown Strike
+|-
+| colspan="4" |Mass. damage to 1 enemy based on own REC + Mass. damage to 1 enemy based on own max HP + Blue unit REC boost 1 trn.
+|-
+! colspan="4" |Ability 1/2
+|-
+!Ability 1:
+|colspan="3" |Junk Break
+|-
+| colspan="4" |When in front, can destroy Junk Panels.
+|-
+!Ability 2:
+|colspan="3" |Vaccine
+|-
+| colspan="4" |Immune to Virus.
+|-
+| colspan="4" |When Deity unit in front, 1 SCP drops.
+|-
+! colspan="4" |Evolution Line
+|-
+| colspan="4"|[[File:8209.png|link=Wufu Qiansui|65px]] > [[File:8210.png|link=|Evil Hunt Princess Wufu Qiansui|65px]]
+|-
+! colspan="4" |Units for  Awakening
+|-
+| colspan="4"|[[File:????.png|link=Little Humpty|65px]] [[File:????.png|link=Leedsichthys|65px]](Bug 2) |[[File:????.png|link=Sugarful|65px]](Bug 2) [[File:????.png|link=Aqua Mad Hatter|65px]]
+|}
+</tabber>
