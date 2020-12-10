@@ -1,0 +1,76 @@
+<p style="text-align:right;">
+</p>
+
+{{(Test)
+|image1 = Lion King Wind Huang Feihong.png
+|id = 8242
+|HP = 3881
+|ATK = 2836
+|REC = 2182
+|tribe = Hero • Human
+|type = Technical
+|obtain = Hatcher
+|color = Yellow
+|rarity = 6★
+|cost = 60
+|maxlevel = 99
+|max.HP = 6791
+|max.ATK = 4963
+|max.REC = 3818
+}}
+<tabber>6★=
+{| class="article-table" | border="1"
+! colspan="4" |Active Skill
+|-
+!Skill Name:
+|Shadowless Blade
+!Turns:
+|13
+(MAX: 7)
+|-
+| colspan="4" |Non-special to Yellow + Chance Green drop as up to 60 Yel. Bombs (L), Yellow Panel enhance, Yellow unit ATK boost 2 trn.
+|-
+! colspan="4" |Crash Panel Skill
+|-
+!Skill Name:
+|colspan="3" |Drunken Fist
+|-
+| colspan="4" |Damage to 1 enemy. The higher the HP, the more powerful the attack.
+|-
+! colspan="4" |Ability 1/2
+|-
+!Ability 1:
+|colspan="3" |Damage Break & Protect Break
+|-
+| colspan="4" |When in front, can break Damage Panels without taking damage + Can break protected panels.
+|-
+!Ability 2:
+|colspan="3" |Yellow Bomb Drop 6
+|-
+| colspan="4" |When in front, 6 Blue Panels drop as Yellow Bombs.
+|-
+! colspan="4" |Ability 3/4
+|-
+!Ability 3:
+|2 Tribe Tap Boost
+!REQ
+|BUG 10
+|-
+| colspan="4" |Human and Hero units add 1 tap.
+|-
+!Ability 4:
+|Balance Killer
+!REQ
+|BUG 20
+|-
+| colspan="4" |Increase damage against Balance Type enemies.
+|-
+! colspan="4" |Evolution Line
+|-
+| colspan="4"|[[File:8241.png|link=Haung Feihong|65px]] > [[File:8242.png|link=|Lion King Wind Huang Feihong|65px]]
+|-
+! colspan="4" |Units for  Awakening
+|-
+| colspan="4"|[[File:????.png|link=Little Humpty|65px]] [[File:????.png|link=Gyrobolt Chiemi|65px]](Bug 2) |[[File:????.png|link=Yuuya, the Earth Spider|65px]](Bug 2) [[File:????.png|link=Thunder Mad Hatter|65px]]
+|}
+</tabber>

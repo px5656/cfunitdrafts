@@ -1,0 +1,60 @@
+<p style="text-align:right;">
+</p>
+
+{{(Test)
+|image1 = Huang Feihong.png
+|id = 8241
+|HP = 2426
+|ATK = 1636
+|REC = 1250
+|tribe = Hero • Human
+|type = Technical
+|obtain = Hatcher
+|color = Yellow
+|rarity = 6★
+|cost = 60
+|maxlevel = 99
+|max.HP = 4851
+|max.ATK = 3272
+|max.REC = 2500
+}}
+<tabber>6★=
+{| class="article-table" | border="1"
+! colspan="4" |Active Skill
+|-
+!Skill Name:
+|Shadowless Blade
+!Turns:
+|14
+(MAX: 8)
+|-
+| colspan="4" |Non-special to Yellow + Chance Green drop as up to 60 Yel. Bombs (L), Yellow Panel enhance, Yellow unit ATK boost 2 trn.
+|-
+! colspan="4" |Crash Panel Skill
+|-
+!Skill Name:
+|colspan="3" |Drunken Fist
+|-
+| colspan="4" |Damage to 1 enemy. The higher the HP, the more powerful the attack.
+|-
+! colspan="4" |Ability 1/2
+|-
+!Ability 1:
+|colspan="3" |Damage Break & Protect Break
+|-
+| colspan="4" |When in front, can break Damage Panels without taking damage + Can break protected panels.
+|-
+!Ability 2:
+|colspan="3" |Yellow Bomb Drop 6
+|-
+| colspan="4" |When in front, 6 Blue Panels drop as Yellow Bombs.
+|-
+! colspan="4" |Evolution Line
+|-
+| colspan="4"|[[File:8241.png|link=Haung Feihong|65px]] > [[File:8242.png|link=|Lion King Wind Huang Feihong|65px]]
+|-
+! colspan="4" |Units for  Awakening
+|-
+| colspan="4"|[[File:????.png|link=Little Humpty|65px]] [[File:????.png|link=Gyrobolt Chiemi|65px]](Bug 2) |[[File:????.png|link=Yuuya, the Earth Spider|65px]](Bug 2) [[File:????.png|link=Thunder Mad Hatter|65px]]
+|}
+</tabber>
