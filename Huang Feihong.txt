@@ -11,7 +11,7 @@
 |type = Technical
 |obtain = Hatcher
 |color = Yellow
-|rarity = 6★
+|rarity = 5★
 |cost = 60
 |maxlevel = 99
 |max.HP = 4851
