@@ -1,0 +1,72 @@
+<p style="text-align:right;">
+</p>
+
+{{(Test)
+|image1 = [Spirit Serpent Xiaoqing].png
+|id = 8205
+|HP = 3695
+|ATK = 3011
+|REC = 1407
+|tribe = Dragon • Fantasy
+|type  Offense
+|obtain = Hatcher
+|color = Green
+|rarity = 6★
+|cost = 60
+|maxlevel = 99
+|max.HP = 7390
+|max.ATK = 6022
+|max.REC = 2814
+}}
+<tabber>6★=
+{| class="article-table" | border="1"
+! colspan="4" |Active Skill
+|-
+!Skill Name:
+|Spirit Bamboo Blade
+!Turns: 12
+|TURNS HERE
+(MAX: 6)
+|-
+| colspan="4" |Blue, Hearts, Junk to CP + 1800 ATK boost to Green units, No Blue, Heart Panels, high Green Panel drop boost 1 turn.
+|-
+! colspan="4" |Crash Panel Skill
+|-
+!Skill Name:
+|colspan="3" |Blue Snake Shockwave
+|-
+| colspan="4" |Ultra damage to 1 enemy + Green unit 80 DEF Boost 2 turns.
+|-
+! colspan="4" |Ability 1/2
+|-
+!Ability 1:
+|colspan="3" |Anti-Hacking + Junk Break
+|-
+| colspan="4" |Immune to Hacking + Can destroy Junk Panels when in front.
+|-
+!Ability 2:
+|colspan="3" |3 Tribe Tap Boost
+|-
+| colspan="4" |On first and every 4th turn, Dragon, Fantasy,  Animal units gain 1 tap.
+|-
+! colspan="4" |Ability 3/4
+|-
+!Ability 3:
+| Chain 15 Blast Boost
+!REQ
+|BUG 10
+|-
+| colspan="4" |When in front, chain 15 panels in 1 tap for blast radius enhance.
+|-
+!Ability 4:
+|C Skill Power Boost
+!REQ
+|BUG 20
+|-
+| colspan="4" |Boost own C Skill power.
+|-
+! colspan="4" |Evolution Line
+|-
+| colspan="4"|[[File:8119.png|link=Xiaoqing|65px]] > [[File:8120.png|link=|Caring Younger Sister Xiaoqing|65px]] > [[File:8205.png|link=|Spirit Serpent Xiaoqing|65px]]
+|}
+</tabber>

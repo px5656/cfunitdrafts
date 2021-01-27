@@ -1,0 +1,28 @@
+Growing Strange Paracelsus
+ID: 2380
+Technical Type
+Academic + Animal
+
+--skill
+Status: Wonder Soda
+Green, Blue Panels to CP, Yellow, Timers to Red Panels + Red unit add 1 tap, Heart drop rate boost 2 turns.
+
+--c/skill
+Growing Strange
+Ultra damage to 1 enemy based on own REC + Recover HP.
+
+
+-- AB 1 + 2
+Protect Break + Anti-Hacking
+Immune to Hacking + When in front, can break protected panels.
+
+CP Drop
+When in front, Hearts drop as own CP.
+
+-- AB 3+4
+C. Skill Damage Boost
+Increase own C Skill damage 30%.
+
+Every Turn Recover HP
+Recover 3000 HP at the end of every turn.
+

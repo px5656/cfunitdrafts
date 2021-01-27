@@ -1,0 +1,76 @@
+<p style="text-align:right;">
+</p>
+
+{{(Test)
+|image1 = [FULL SPACED NAME].png
+|id =
+|HP =
+|ATK =
+|REC =
+|tribe =
+|type =
+|obtain = Hatcher
+|color =
+|rarity = 6★
+|cost =
+|maxlevel = 99
+|max.HP =
+|max.ATK =
+|max.REC =
+}}
+<tabber>6★=
+{| class="article-table" | border="1"
+! colspan="4" |Active Skill
+|-
+!Skill Name:
+|NAME HERE
+!Turns:
+|TURNS HERE
+(MAX: )
+|-
+| colspan="4" |SKILL HERE.
+|-
+! colspan="4" |Crash Panel Skill
+|-
+!Skill Name:
+|colspan="3" |NAME HERE
+|-
+| colspan="4" |C SKILL HERE.
+|-
+! colspan="4" |Ability 1/2
+|-
+!Ability 1:
+|colspan="3" |AB 1
+|-
+| colspan="4" |DESC.
+|-
+!Ability 2:
+|colspan="3" |AB 2
+|-
+| colspan="4" |DESC.
+|-
+! colspan="4" |Ability 3/4
+|-
+!Ability 3:
+|AB 3
+!REQ
+|BUG 10
+|-
+| colspan="4" | DESC.
+|-
+!Ability 4:
+|AB 4
+!REQ
+|BUG 20
+|-
+| colspan="4" |DESC.
+|-
+! colspan="4" |Evolution Line
+|-
+| colspan="4"|[[File:ID HERE.png|link=NAME HERE|65px]] > [[File:ID HERE.png|link=|NAME HERE|65px]]
+|-
+! colspan="4" |Units for  Awakening
+|-
+| colspan="4"|[[File:????.png|link=Little Humpty|65px]][[File:????.png|link=Little Humpty|65px]]
+|}
+</tabber>

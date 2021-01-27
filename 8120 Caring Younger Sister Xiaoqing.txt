@@ -1,0 +1,77 @@
+<p style="text-align:right;">
+</p>
+
+{{(Test)
+|image1 = [Caring Younger Sister Xiaoqing].png
+|id = 8120
+|HP = 3164
+|ATK = 2628
+|REC = 1171
+|tribe = Dragon • Fantasy
+|type  Offense
+|obtain = Hatcher
+|color = Green
+|rarity = 6★
+|cost = 50
+|maxlevel = 99
+|max.HP = ???
+|max.ATK = ???
+|max.REC = ???
+}}
+<tabber>6★=
+{| class="article-table" | border="1"
+! colspan="4" |Active Skill
+|-
+!Skill Name:
+|Blue Dragon Fountain Current
+!Turns: 10
+|TURNS HERE
+(MAX: 6)
+|-
+| colspan="4" |Blue Panels to CP + Dragon, Fantasy, Animal ATK boost (absorb Red, Hearts), highly lower Blue, Heart rate 1 turn.
+|-
+! colspan="4" |Crash Panel Skill
+|-
+!Skill Name:
+|colspan="3" |Blue Snake Fivefold Shockwave
+|-
+| colspan="4" |Ultra damage to 1 enemy + DEF Boost for Dragon, Fantasy, Animal units 2 turn.
+|-
+! colspan="4" |Ability 1/2
+|-
+!Ability 1:
+|colspan="3" |Junk Break
+|-
+| colspan="4" |Can destroy Junk Panels when in front.
+|-
+!Ability 2:
+|colspan="3" |3 Tribe Every 6 Turns Tap Boost
+|-
+| colspan="4" |On the 1st turn and every 6th turn, Dragon, Fantasy, and Animal units get 1 extra tap.
+|-
+! colspan="4" |Ability 3/4
+|-
+!Ability 3:
+| 20-Panel Chain Chain Blast Enhance
+!REQ
+|BUG 10
+|-
+| colspan="4" |When in front, chain 20 panels in 1 tap for blast radius enhance.
+|-
+!Ability 4:
+|C Skill Power Boost
+!REQ
+|BUG 20
+|-
+| colspan="4" |Boost own C Skill power.
+|-
+! colspan="4" |Evolution Line
+|-
+| colspan="4"|[[File:8119.png|link=Xiaoqing|65px]] > [[File:8120.png|link=|Caring Younger Sister Xiaoqing|65px]] > [[File:8205.png|link=|Spirit Serpent Xiaoqing|65px]]
+|-
+! colspan="4" |Units for Awakening
+|-
+| colspan="4"|[[File:????.png|link=Swirling Snake Soul|65px]]
+[[File:????.png|link=Typhon|65px]][[File:????.png|link=Delphyne|65px]][[File:????.png|link=Thousand Tales Griffon|65px]][[File:????.png|link=Little Humpty|65px]]
+|}
+</tabber>

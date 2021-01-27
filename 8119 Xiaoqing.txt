@@ -1,0 +1,48 @@
+<p style="text-align:right;">
+</p>
+
+{{(Test)
+|image1 = [Xiaoqing].png
+|id = 8119
+|HP = 2245
+|ATK = 1877
+|REC = 856
+|tribe = Dragon • Fantasy
+|type  Offense
+|obtain = Hatcher
+|color = Green
+|rarity = 5★
+|cost = 50
+|maxlevel = 80
+|max.HP = ???
+|max.ATK = ???
+|max.REC = ???
+}}
+<tabber>6★=
+{| class="article-table" | border="1"
+! colspan="4" |Active Skill
+|-
+!Skill Name:
+|Blue Dragon Fountain Blade
+!Turns: 11
+|TURNS HERE
+(MAX: ?)
+|-
+| colspan="4" |Blue Panels to CP + Dragon, Fantasy, Animal ATK boost (absorb Hearts), highly lower Blue, Heart rate 1 turn.
+|-
+! colspan="4" |Crash Panel Skill
+|-
+!Skill Name:
+|colspan="3" |Blue Snake Shockwave
+|-
+| colspan="4" |Ultra damage to 1 enemy + DEF Boost for Dragon, Fantasy, Animal units 1 turn.
+|-
+! colspan="4" |Evolution Line
+|-
+| colspan="4"|[[File:8119.png|link=Xiaoqing|65px]] > [[File:8120.png|link=|Caring Younger Sister Xiaoqing|65px]] > [[File:8205.png|link=|Spirit Serpent Xiaoqing|65px]]
+|-
+! colspan="4" |Units for Awakening
+|-
+| colspan="4"|[[File:????.png|link=Little Humpty|65px]][[File:????.png|link=Green Caterpillar|65px]][[File:????.png|link=Forest Mad Hatter|65px]][[File:????.png|link=Lindworm|65px]][[File:????.png|link=Pazuzu|65px]]
+|}
+</tabber>
